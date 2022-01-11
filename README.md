@@ -4,10 +4,10 @@
 
 # [Click](https://music-player-008.netlify.app/) for Front-End Netlify Link
 
-# [Click] (https://online-music-player-backend-pn.herokuapp.com) for Front-End Netlify Link
+# [Click](https://online-music-player-backend-pn.herokuapp.com) for Front-End Netlify Link
 
 Songs are stored in Azure Blob storage
 
-Admin credetials for inserting songs:    
+Admin credetials: 
 email: admin@music.com   
 password: admin@123
