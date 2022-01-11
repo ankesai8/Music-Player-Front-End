@@ -1,10 +1,10 @@
 # OnlineMusicPlayer-frontend
 
-A website where you can listen to songs, go through lyrics and create your own playlists 
+# A website where you can listen to songs, go through lyrics and create your own playlists 
 
-Netlify: https://music-player-008.netlify.app/
+# [Click](https://music-player-008.netlify.app/) for Front-End Netlify Link
 
-Heroku: https://online-music-player-backend-pn.herokuapp.com
+# [Click] (https://online-music-player-backend-pn.herokuapp.com) for Front-End Netlify Link
 
 Songs are stored in Azure Blob storage
 
