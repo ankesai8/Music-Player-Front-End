@@ -1,6 +1,6 @@
 # OnlineMusicPlayer-frontend
 
-# A website where you can listen to songs, go through lyrics and create your own playlists 
+# A website where you can listen and enjoy songs, go through lyrics and create your own playlists and add your songs
 
 # [Click](https://music-player-008.netlify.app/) for Front-End Netlify Link
 
